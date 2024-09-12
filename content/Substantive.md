@@ -2,4 +2,4 @@
 tags:
   - philosophy
 ---
-Independent
+Independent in existance.
