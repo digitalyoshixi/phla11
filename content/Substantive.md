@@ -2,4 +2,4 @@
 tags:
   - philosophy
 ---
-Independent in existance.
+Deep, interesting, informative, explanatory, rigorous, precise and accurate philosophical subject matter.
