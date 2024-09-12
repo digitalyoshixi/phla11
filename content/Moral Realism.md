@@ -7,4 +7,4 @@ aliases:
 ---
 A [[Meta-Ethics|Meta-Ethical]] disagreement about whether [[Moral Facts]] exist.
 
-[[Antirealism]] is opposed to moral realism.
+[[Nihilism]] is opposed to moral realism.
