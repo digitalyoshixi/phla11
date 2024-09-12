@@ -5,6 +5,6 @@ aliases:
   - Second Order Morality
   - Moral Truth
 ---
-A [[Meta-Ethics|Meta-Ethical]] disagreement about whether objective moral truths exist.
-It is concerned with the existence of morality as a whole.
+A [[Meta-Ethics|Meta-Ethical]] disagreement about whether [[Moral Facts]] exist.
+
 [[Antirealism]] is opposed to moral realism.

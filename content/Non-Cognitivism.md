@@ -9,5 +9,5 @@ Specifically, it is saying that statements cannot be truth apt, as we know that 
 # Support For Non-Cognitivism
 *It is wrong to kill* means the same as *Don't Kill*.
 Non-cognitivists say that the surface grammar does not make the actual statement.
-
--For all [[First Order Morality]] claims, they can all be interpreted as [[Commands]].
+This mismatch is what non-cognitivists spend most their time proving - proving that a statement actually means another thing.
+For all [[First Order Morality]] claims, they can all be interpreted as [[Commands]].
