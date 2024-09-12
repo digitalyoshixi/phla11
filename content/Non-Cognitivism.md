@@ -3,8 +3,4 @@ tags:
   - philosophy
   - epistemology
 ---
-Are m?:??"
-
-
-
-
+Moral sentences are not [[Truth-Aptness|Truth Apt]]. 
