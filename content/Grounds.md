@@ -4,9 +4,14 @@ tags:
   - philosophy
 ---
 What it is that constitutes [[Concept Properties]].
+Some [[Moral Facts]] depend on other [[Moral Facts]].
 For example:
 - Being wrong is a result of going against [[God's Will]]
 - Being wrong is a lack of social [[Etiquette]]
+- Being an uncle is to be a male sibling of a parent
+	  - Depends on being a male
+	  - Depends on being a sibling
+	- Depends  on 
 # Mind Dependence
 Moral facts are grounded in the reactions or attitudes of the moral action (See [[Action Contents]]). They are mind-dependent.
 [[Fundamental Moral Principles]] therefore, must be mind independent, and have nothing to do with what the mind thinks or believes. They must be like the laws of physics which have nothing essential to do with what we like or dislike.
