@@ -2,6 +2,8 @@
 tags:
   - ethics
   - philosophy
+aliases:
+  - Truth Apt
 ---
 Moral claims are capable of being true or false.
 There cannot be [[Morally Gray]] claims. 
