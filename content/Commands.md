@@ -2,6 +2,8 @@
 tags:
   - ethics
   - philosophy
+aliases:
+  - Imperatives
 ---
 These are statements that cannot be proven true like:
 "CLOSE THE DOOR"
