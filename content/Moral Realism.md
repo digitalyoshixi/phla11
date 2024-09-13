@@ -11,4 +11,4 @@ It assumes [[Truth-Aptness]].
 # Subdomains
 There is debate between the moral realists as to what constitutes a moral fact.
 - [[Naturalist]]
-- 
+- [[Non-Naturalist]]
