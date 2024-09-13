@@ -8,4 +8,5 @@ i.e:
 - The ability for a concept to be difficult
 We say murder is wrong, and murder is difficult. These are its properties.
 # Property Types
-- [[Comp]]
+- [[Complex Property]]
+- [[Basic Property]]
