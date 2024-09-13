@@ -26,3 +26,5 @@ We argue that there are [[Moral Realism|Moral Truths]] and that [[Moral Relativi
 # Chapter 2
 - [[Metaethics Flow Chart]]
 - [[Non-Cognitivism]]
+# Questions
+- Why does the atheist deny all facts? Do they deny facts like 
