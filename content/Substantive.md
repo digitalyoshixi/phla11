@@ -2,4 +2,4 @@
 tags:
   - philosophy
 ---
-Deep, interesting, informative, explanatory, rigorous, precise and accurate philosophical subject matter.
+A moral claim that refers to an assertion about what is right or wrong. 
