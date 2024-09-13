@@ -13,3 +13,7 @@ There is debate between the moral realists as to Owhat constitutes a moral fact.
 ![[Moral Realism-20240912220258183.webp]]
 - [[Naturalist]]
 - [[Non-Naturalist]]
+- [[Reductionism]]
+- [[Non-Reductionism|Simple Realism]]
+- [[Constructivism]]
+

@@ -3,5 +3,8 @@ tags:
   - ethics
   - philosophy
   - epistemology
+aliases:
+  - Simple Realism
 ---
-Certain [[Complex Property|Moral Properties]] can be [[Basic Property|Irreducible]]
+Certain [[Moral Facts]] are [[Basic Property|Irreducible]].
+This means they have no [[Grounds]] and are [[Basic Property|Basic]]
