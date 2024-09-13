@@ -4,7 +4,7 @@ tags:
   - philosophy
 ---
 What it is that constitutes [[Concept Properties]].
-Some [[Moral Facts]] depend on other [[Moral Facts]].
+Some [[Moral Facts]] have [[Complex Property]] depend on other [[Moral Facts]].
 For example:
 - Being wrong is a result of going against [[God's Will]]
 - Being wrong is a lack of social [[Etiquette]]
