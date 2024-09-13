@@ -3,7 +3,7 @@ tags:
   - philosophy
   - meaning
 aliases:
-  - Nihilist
+  - Nihilism
 ---
 The idea that [[Moral Facts]] are [[Truth-Aptness|Truth Apt]] but they also do not exist.
 - There are no positive moral facts
