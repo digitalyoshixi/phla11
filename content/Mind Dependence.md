@@ -9,6 +9,7 @@ tags:
 ### Mind Dependence Example
 Facts about pleasure are facts about the experiences of minds. 
 Facts about virtue are facts about the character traits of minds.
+The idea of being popular depends on being liked by other minds.
 To remain mind-independent, you **must not reduce the principle to facts about the mind at all**.
 ### Certain Theories are Also Mind Dependent
 The rules of English are not concerned with the reaction of its users. But, the reactions of the users is what allows English to change.
