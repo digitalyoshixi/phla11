@@ -7,3 +7,6 @@ A branch of [[Nihilism]] (There is no such thing as moral right and wrong).
 We should change how we talk about moral language as to not make assertions.
 When we engage in moral talk, we engage in fiction.
 # Revisionist Nihilist
+Moral language is intended to make [[Moral Statements]],
+but all of these claims are false.
+But, because moral language is already very embedded in our way of se
