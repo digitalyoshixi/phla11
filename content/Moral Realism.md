@@ -16,4 +16,8 @@ There is debate between the moral realists as to Owhat constitutes a moral fact.
 - [[Reductionism]]
 - [[Non-Reductionism|Simple Realism]]
 - [[Constructivism]]
+# Second Order Claim
+All second order claims refer to first order claims. (And the debate of truth-aptness)
+Example:
+There is an objective answer to whether "killing is wrong"
 
