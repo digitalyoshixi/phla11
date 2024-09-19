@@ -7,6 +7,7 @@ It is not the case that every simple opinion is subject to hold the same argumen
 In a legal proceeding, the burden of proof is on the [[Prosecution]].
 If a prosecutor does not make the case, then the defense wins.
 The presumption is that defense is innocent, the prosecution must assert they are guilty. This is burden of proof.
+
 **The burden of proof is always on the side that is making [[Facts Polarity|Positive Claims]]**
 # Burden Of Proof Example
 Where does the burden of proof lie on those who assert that the earth is round or those who assert it is flat?
@@ -14,3 +15,5 @@ You can think of it like positive and negative claims: One believes the earth is
 
 # Burden Of Proof for [[Moral Realism]]
 The [[Moral Realism|Realist]] has the burden of proof
+# Burden Of Proof for Facts
+The burden of proof for facts depends on the fact that 
