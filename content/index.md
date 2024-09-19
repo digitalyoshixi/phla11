@@ -26,6 +26,8 @@ We argue that there are [[Moral Realism|Moral Truths]] and that [[Moral Relativi
 # Chapter 2
 - [[Metaethics Flow Chart]]
 - [[Non-Cognitivism]]
+# Chapter 3
+- [[Burden Of Proof]]
 # Questions
 - Why does the atheist deny all facts? Do they deny facts that have nothing to do with god aswell?
 - What does a substantive moral claim even mean?

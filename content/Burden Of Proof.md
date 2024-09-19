@@ -16,4 +16,4 @@ You can think of it like positive and negative claims: One believes the earth is
 # Burden Of Proof for [[Moral Realism]]
 The [[Moral Realism|Realist]] has the burden of proof
 # Burden Of Proof for Facts
-The burden of proof for facts depends on the fact that 
+The burden of proof for facts depends on the fact that does **not** adhere to [[Occam's Razor]] (the more complex claim)
