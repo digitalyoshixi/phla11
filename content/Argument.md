@@ -24,3 +24,4 @@ $Q:$ USC will lose the big-ten game
 - $B:$ The game is played in the big house
 - $C:$ (implicitly if $A$ and $B$ then $Q$)
 - Therefore $Q:$ USC will lose
+If you want to argue that the QB is amazing, then you reject premise $C$.
