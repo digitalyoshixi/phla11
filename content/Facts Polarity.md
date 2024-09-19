@@ -3,8 +3,8 @@ tags:
   - philosophy
   - ethics
 aliases:
-  - Positive Moral Facts
-  - Negative Moral Facts
+  - Positive Fact
+  - Negative Fact
 ---
 Moral nihilists deny all positive first order moral claims.
 These are claims that have total polarity that is positive.
