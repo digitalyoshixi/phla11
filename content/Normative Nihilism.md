@@ -6,7 +6,7 @@ aliases:
 ---
 Rejects all [[Fact|Normative Facts]]. 
 - They believe [[Normative Claim|Normative Claims]] are truth-apt and intend to convey [[Fact|Facts]]
-- They just believe all []
+- They just believe all [[Fact|Normative Facts]] are false
 # Subdomains
 - [[Moral Nihilism]]
 # Similarities
