@@ -5,7 +5,7 @@ tags:
 aliases:
   - Nihilist
 ---
-The idea that [[Moral Facts]] are [[Truth-Aptness|Truth Apt]] but they also do not exist.
-- There are no first order [[Facts Polarity|Positive Moral Facts]]
+The idea that moral claims are [[Truth-Aptness|Truth Apt]] but there are no [[Moral Facts]].
+- All no first order [[Facts Polarity|Positive Moral Facts]]
 # Similarities
 - [[Atheism]]
