@@ -19,6 +19,7 @@ An argument like "EARTH IS FLAT, EARTH IS FLAT, EARTH IS FLAT", is not an argume
 You can either:
 - Accept the conclusion (You can be so confident in the conclusion that you don't pay heed to the premises)
 - Reject the premises (You can't reject the conclusion without rejecting the premises)
+	- You dont necessarily need to think the premise is wrong, you just need to value your own conclusion more than the premise to reject it.
 # Example Argument
 $Q:$ USC will lose the big-ten game
 - $A:$ The Michigan defense will be stout again
