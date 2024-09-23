@@ -1,6 +1,8 @@
 ---
 tags:
   - philosophy
+aliases:
+  - Substantive Claim
 ---
 1. A conclusion $Q$
 2. Premises supporting the conclusion
