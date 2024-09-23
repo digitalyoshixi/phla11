@@ -3,4 +3,4 @@ tags:
   - philosophy
 ---
 # Subdomains
-- [[Implausability]]
+- [[Implausibility]]
