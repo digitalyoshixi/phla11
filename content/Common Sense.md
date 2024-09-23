@@ -2,3 +2,5 @@
 tags:
   - philosophy
 ---
+# Subdomains
+- [[Implausability]]
