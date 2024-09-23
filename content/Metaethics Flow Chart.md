@@ -8,6 +8,6 @@ tags:
 - [[Cognitivism]]
 - [[Non-Cognitivism]]
 - [[Moral Realism]]
-- [[Nihilism]]
+- [[Moral Nihilism]]
 - [[Abolitionism]]
 - [[Revisionism]]

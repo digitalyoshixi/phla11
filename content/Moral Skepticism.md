@@ -4,11 +4,11 @@ tags:
   - philosophy
 ---
 # 100% Skeptic
-The viewpoint of a [[Abolitionism|Abolitionist]] [[Nihilism|Nihilist]].
+The viewpoint of a [[Abolitionism|Abolitionist]] [[Moral Nihilism|Nihilist]].
 - No [[Moral Facts]] exist
 - We should remove moral talk entirely
 # Medium Skeptic
-A [[Revisionism|Revisionist]] [[Nihilism|Nihilist]].
+A [[Revisionism|Revisionist]] [[Moral Nihilism|Nihilist]].
 - No [[Moral Facts]] exist
 - We must reshape moral talk
 # Low Skeptic

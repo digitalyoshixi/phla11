@@ -11,4 +11,4 @@ They are:
 - Discounts the idea of [[Sin]]
 
 Caused by the death of [[Christianity]], humanity becomes their own god.
-The Ubermensch is a counter-argument against [[Nihilism]]
+The Ubermensch is a counter-argument against [[Normative Nihilism]]

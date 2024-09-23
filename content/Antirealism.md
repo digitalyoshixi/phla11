@@ -4,4 +4,5 @@ tags:
 ---
 A philosophical stance opposed to [[Science]] and [[Moral Realism]].
 # Subdomains
-- [[Nihilism]]
+- [[Normative Nihilism]]
+- [[Moral Nihilism]]
