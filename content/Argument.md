@@ -2,7 +2,6 @@
 tags:
   - philosophy
 ---
-
 1. A conclusion $Q$
 2. Premises supporting the conclusion
 
