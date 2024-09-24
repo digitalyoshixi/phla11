@@ -1,9 +1,9 @@
 ---
 tags:
   - arguing
+aliases:
+  - Sound
 ---
 An argument is sound if:
-- It is valid 
+- It is [[Validity|Valid]] 
 - All the premises are true
-# Contrast
-A [[Deductive Argument]] may have necessarily but acutally false premises, bu

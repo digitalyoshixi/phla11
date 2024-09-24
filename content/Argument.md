@@ -31,3 +31,6 @@ If you want to argue that the QB is amazing, then you reject premise $C$.
 # Concepts
 - [[Conclusion Confidence]]
 - [[Deductive Argument]]
+- [[Validity]]
+- [[Soundness]]
+- [[Argument Objection]]
