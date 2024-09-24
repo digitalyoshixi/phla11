@@ -30,3 +30,4 @@ $Q:$ USC will lose the big-ten game
 If you want to argue that the QB is amazing, then you reject premise $C$.
 # Concepts
 - [[Conclusion Confidence]]
+- [[Deductive Argument]]
