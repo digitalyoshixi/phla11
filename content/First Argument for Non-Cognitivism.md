@@ -14,6 +14,6 @@ There is a necessary connection between thinking something wrong
 and being at least somewhat motivated to avoid doing it. But the cognitivist
 cannot explain that connection. So cognitivism is false
 # Counterargument
-Provide a moral statement that has no motivation.
+Disprove with a counterexample. You must provide a moral statement that has no motivation. In other words, there must be a moral agent, that is well and truly indifferent to morality, but still believe in moral rules.
 Example:
-"It is morally wrong to kill, but I don't care". Hitmen may believe in morality, but they genuinely don't care. (See [[Amoralism]])
+"It is morally wrong to kill, but I don't care". Hitmen may believe in morality, but they genuinely not care. (See [[Amoralism]])
