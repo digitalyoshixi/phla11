@@ -1,5 +1,7 @@
 ---
 tags:
+  - ethics
+  - philosophy
 ---
 
 # Theses

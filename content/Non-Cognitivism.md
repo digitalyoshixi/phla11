@@ -16,5 +16,7 @@ Non-cognitivists say that the surface grammar does not make the actual [[Proposi
 
 This mismatch is what non-cognitivists spend most their time proving - proving that a statement actually means another thing.
 
+When you 
 # Concepts
 - [[Non-Cognitivism Thesis]]
+- [[Subjectivism]]
