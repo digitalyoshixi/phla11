@@ -18,4 +18,9 @@ Disprove with a counterexample. You must provide a moral statement that has no m
 Example:
 "It is morally wrong to kill, but I don't care". Hitmen may believe in morality, but they genuinely not care. (See [[Amoralism]])
 # Counterargument 2
-Disprove premise 2 - No claims re connected with a motivational state:
+Disprove premise 2 - No claims are connected with a motivational state:
+- 
+# Counterargument 3
+Disprove premise 1 - When you express a moral judgement, it is necessarily connected with a motivational state:
+Counterexample:
+- [[Etiquette]]. You can say this is rude in one culture, but I don't hold that motivation. You make sincere judgements about what is right or wrong, but you don't feel any responsibility to live up to those standards of other cultures.
