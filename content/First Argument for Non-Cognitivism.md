@@ -17,3 +17,5 @@ cannot explain that connection. So cognitivism is false
 Disprove with a counterexample. You must provide a moral statement that has no motivation. In other words, there must be a moral agent, that is well and truly indifferent to morality, but still believe in moral rules.
 Example:
 "It is morally wrong to kill, but I don't care". Hitmen may believe in morality, but they genuinely not care. (See [[Amoralism]])
+# Counterargument 2
+Disprove premise 2 - No claims re connected with a motivational state:
