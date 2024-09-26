@@ -13,5 +13,13 @@ The only true statement that non-cognitivists believe in is the [[Moral Realism|
 Non-cognitivists say that the surface grammar does not make the actual [[Proposition]]
 
 This mismatch is what non-cognitivists spend most their time proving - proving that a statement actually means another thing.
-# Arguments
--  
+
+# Theses
+### Negative Thesis
+Moral sentences are not truth-apt
+### Positive Thesis
+Moral sentences express attitudes or commands
+- Realist can accept the positive thesis. It is the negative thesis that is the point of disagreement
+- The non-cognitivist requires the positive thesis because they owe us [[Moral Language]]
+##### Cognitivism
+When you assert the moral statement, what you mean is that the statement has a moral propety
