@@ -4,9 +4,11 @@ tags:
   - ethics
 aliases:
   - Expressivism
+  - Emotivism
 ---
 The view that [[First Order Morality]] sentences are **not** [[Truth-Aptness|Truth Apt]]
 Specifically, it is saying that [[Moral Statements]] cannot themselves be interpreted as [[Moral Statements]], but rather they are similar to [[Questions]] and [[Commands]].
+Every sentence is used to express & reveal an attitude.
 Thereby, they prove that there are no [[Truth-Aptness|Truth Apt]] [[Proposition|Propositions]] at all, and therefore nothing can be considered [[Knowledge]].
 
 The only true statement that non-cognitivists believe in is the [[Moral Realism|Second Order Morality]] claim that no [[Moral Facts]] are [[Truth-Aptness|Truth Apt]]. 
