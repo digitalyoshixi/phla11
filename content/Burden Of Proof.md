@@ -2,6 +2,8 @@
 tags:
   - ethics
   - philosophy
+aliases:
+  - Hitchen's Razor
 ---
 The party that must attempt to prove their argument. If they fail, then the opposite side wins by default.
 In a legal proceeding, the burden of proof is on the [[Prosecution]].
@@ -10,7 +12,7 @@ The presumption is that defense is innocent, the prosecution must assert they ar
 # Burden Of Proof Responsibility
 From highest precedence to lowest precedence, The responsibility belongs to:
 1. The one who makes the claim
-2. The claim that follows [[Hitchen's Razor]]
+2. The claim that does not follow status quo (See [[Sagan Standard]])
 3. The [[Facts Polarity|Positive Claim]] that follows [[Occam's Razor]] 
 # Examples
 # Flat vs Round Earth
