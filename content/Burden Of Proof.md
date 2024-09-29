@@ -3,7 +3,7 @@ tags:
   - ethics
   - philosophy
 ---
-It is not the case that every simple opinion is subject to hold the same argument type of argument. Some opinions win by default is the argument is not strong enough.
+The party that must attempt to prove their argument. If they fail, then the opposite side wins by default.
 In a legal proceeding, the burden of proof is on the [[Prosecution]].
 If a prosecutor does not make the case, then the defense wins.
 The presumption is that defense is innocent, the prosecution must assert they are guilty. This is burden of proof.
