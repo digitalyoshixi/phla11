@@ -3,7 +3,9 @@ tags:
   - philosophy
 ---
 # Non-Cognitivism
-When you say a moral statement, it doesnt say that you have a certain attitude, but you show it.
+When you say a moral statement, you don't describe that its true you feel it, rather you show that you have this preference. 
+For example:
+- 
 # Subjectivisim
 You make a factual claim about your attitudes. 
 Subjectivism is a [[Cognitivism|Cognitivists]] view.
