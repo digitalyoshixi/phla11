@@ -3,6 +3,10 @@ tags:
   - philosophy
   - ethics
 ---
+# Importance
+### Expresses How Other People act
+We care deeply about how other people act.
+Thus, we need a way to communicate approval/disapproval.
 # Aspects
 ### Logical Language
 Best to associate language with truth.
