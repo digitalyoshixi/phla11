@@ -21,3 +21,7 @@ As such, we have special moral vocabulary:
 ### Non-Verbal Claim ([[Non-Cognitivism]])
 Moral language is meant to express your beliefs without verbally saying: "I believe such and such".
 When you say "killing is wrong", you are making an non-verbal claim about your attitudes towards killing - namely that you dislike it.
+### Imperative Element ([[Non-Cognitivism]])
+When you utter moral claims, you express that people should follow that moral fact.
+For example:
+- "Killing is wrong" is the same as issuing the imperative "Don't kill!"
