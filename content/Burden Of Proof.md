@@ -9,6 +9,7 @@ If a prosecutor does not make the case, then the defense wins.
 The presumption is that defense is innocent, the prosecution must assert they are guilty. This is burden of proof.
 
 **The burden of proof is always on the side that is making [[Facts Polarity|Positive Claims]] (This is favored because of [[Occam's Razor]])**
+In most cases however, burden of proof should be for the case making the more bizarre claim (the claim that is less widely believed)
 # Examples
 # Flat vs Round Earth
 Where does the burden of proof lie on those who assert that the earth is round or those who assert it is flat?
