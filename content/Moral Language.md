@@ -13,3 +13,5 @@ Locate different forms of approval/disapproval for [[Etiquette]] and [[Morality]
 It looks like moral disagreement is super meaningful like facts are.
 Facts about taste, seem not very meaningful.
 # Non-Cognitivist Belief
+Moral language is meant to express your beliefs without verbally saying: "I believe such and such".
+When you say "killing is wrong", you are making an non-verbal claim about your attitudes towards killing - namely that you dislike it.
