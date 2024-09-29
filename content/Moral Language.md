@@ -12,3 +12,4 @@ Locate different forms of approval/disapproval for [[Etiquette]] and [[Morality]
 # Moral Disagreement = Factual
 It looks like moral disagreement is super meaningful like facts are.
 Facts about taste, seem not very meaningful.
+# Non-Cognitivist Belief
