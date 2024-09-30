@@ -2,6 +2,8 @@
 tags:
   - ethics
   - philosophy
+aliases:
+  - Assertions
 ---
 These are sentences like:
 "Killing in self defense is difficult".

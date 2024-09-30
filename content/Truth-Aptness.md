@@ -5,7 +5,7 @@ tags:
 aliases:
   - Truth Apt
 ---
-[[Moral Statements]] are capable of being true or false.
+[[Statements]] are capable of being true or false.
 There cannot be [[Morally Gray]] claims. 
 If morality is true, then we should be able to say true things about it.
 This is a long-standing discussion in [[Non-Cognitivism]]
