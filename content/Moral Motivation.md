@@ -2,7 +2,8 @@
 tags:
   - ethics
   - philosophy
-aliases: []
+aliases:
+  - Motive Internalism
 ---
 There is a connection between the judging of a [[Morally Required]] task and the motivation to actually do it. 
 There could always be selfishness or lack of interest that prevents these tasks from being motivating
@@ -11,7 +12,7 @@ It is often said that [[Moral Facts]] are this motivation, and for moral facts t
 ### Motive Internalism
 There is a connection between morality and motivation
 ##### Motives Creation
-Motives can either be created by;
+Motives can either be created by:
 - Itself
 - The recognition of a requirement
 - The presence of an unrecognized requirement
