@@ -8,7 +8,7 @@ There is a necessary connection between thinking something wrong and being at le
 cannot explain that connection. So cognitivism is false
 ### Premises
 1. When you express a moral judgement, its necessarily connected with a motivational state (disproval, disgust, etc). (See [[Moral Motivation|Motive Internalism]])
-2. No claims are connected with a motivational state
+2. Cognitivism must allow some claims to not be connected with a motivational state
 ### Conclusion
 Therefore, when you express a moral judgement, you don't express a claim
 # Counterarguments
