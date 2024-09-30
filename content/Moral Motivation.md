@@ -2,6 +2,7 @@
 tags:
   - ethics
   - philosophy
+aliases: []
 ---
 There is a connection between the judging of a [[Morally Required]] task and the motivation to actually do it. 
 There could always be selfishness or lack of interest that prevents these tasks from being motivating
