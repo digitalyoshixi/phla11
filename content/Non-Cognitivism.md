@@ -23,3 +23,4 @@ This mismatch is what non-cognitivists spend most their time proving - proving t
 - [[Non-Cognitivism vs Subjectivism]]
 # Arguments
 - [[First Argument for Non-Cognitivism]]
+- [[Second Argument for Non-Cognitivism]]
