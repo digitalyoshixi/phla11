@@ -19,5 +19,5 @@ Counterexample:
 - Provide a moral statement that has no motivation. In other words, there must be a moral agent, that is well and truly indifferent to morality, but still believe in moral rules. Example:
    "It is morally wrong to kill, but I don't care". Hitmen may believe in morality, but they genuinely not care. (See [[Amoralism]])
 ### Reject Premise 2
-Disprove premise 2 - No claims are connected with a motivational state:
-- 
+Disprove premise 2. It is not possible that belief can never motivate
+- Moral claims necessarily motivate (at least somewhat)
