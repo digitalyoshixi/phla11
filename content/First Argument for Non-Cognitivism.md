@@ -21,6 +21,6 @@ Example:
 Disprove premise 2 - No claims are connected with a motivational state:
 - 
 # Counterargument 3
-Disprove premise 1 - When you express a moral judgement, it is necessarily connected with a motivational state:
+Disprove premise 1 - Explain that moral belief do not need to be [[Moral Motivation|Motive Internalized]]
 Counterexample:
 - [[Etiquette]]. You can say this is rude in one culture, but I don't hold that motivation. You make sincere judgements about what is right or wrong, but you don't feel any responsibility to live up to those standards of other cultures.
