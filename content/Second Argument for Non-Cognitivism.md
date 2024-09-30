@@ -13,3 +13,6 @@ Cognitivism allows for making moral claims without commands. This is [[Absurd]]
 ### Rejecting Premise 1
 One can think an act wrong, but not issue the imperative to back it up.
 - "Murder is wrong, but I dont care! Kill frank!". It knows an act is wrong, but issues a command that is not directly following the moral action
+### Rejecting Premise 2
+- Deny that there is a connection between making a moral claim and issuing commands
+- Argue that whenever you believe a moral claim, you are also believing the derivative imperative claims aswell
