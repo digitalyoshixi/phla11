@@ -28,6 +28,14 @@ We argue that there are [[Moral Realism|Moral Truths]] and that [[Moral Relativi
 - [[Non-Cognitivism]]
 # Chapter 3
 - [[Burden Of Proof]]
+# Chapter 4
+- [[Cognitivism]]
+	- [[First Argument for Cognitivism]]
+- [[Non-Cognitivism]]
+	- [[First Argument for Non-Cognitivism]]
+	- [[Second Argument for Non-Cognitivism]]
+- [[Moral Disputes]]
+- [[Moral Argument]]
 # Questions
 - Why does the atheist deny all facts? Do they deny facts that have nothing to do with god aswell?
 - What does a substantive moral claim even mean?
