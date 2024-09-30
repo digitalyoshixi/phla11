@@ -11,6 +11,7 @@ It is often said that [[Moral Facts]] are this motivation, and for moral facts t
 # Motivation <-> Morality Connection
 ### Motive Internalism
 There is a connection between morality and motivation
+[[Cognitivism]] cannot be compatible with motive internalism, because they don't believe moral claims are [[Reaction|Reactions]], they just believe claims are [[Moral Statements|Statements]]
 ##### Motives Creation
 Motives can either be created by:
 - Itself
