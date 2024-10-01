@@ -11,3 +11,7 @@ If you say that a premise if false, then
 If you cannot believe the conclusion at all, then:
 - Pick a premise that you don't believe that true
 - Say that certain premises are incompatible (also rejecting a premise)
+# Good Objections
+### Be Charitable
+- Ask why someone would believe this in the first place. Play [[Devils Advocate]]
+- 
