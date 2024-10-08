@@ -17,6 +17,8 @@ There mere presence of disagreement is enough to cast doubt on moral facts
 Fields like science, where there are scientific facts also have disagreements.
 This does not imply that there are no scientific facts.
 ### Widespread Agreements
+Sometimes there is just one moral factor rather than two equally powerful moral actions that pull against each other.
 There are certain moral actions that are almost unanimously believe like:
 - It is immoral to torture the innocent
-We implicity
+We implicitly rely on these facts everyday.
+There are moral disagreements here as well, but the moral disputes that we tend to allocate more attention to are ones that we just happen to focus on.
