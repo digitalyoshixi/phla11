@@ -13,12 +13,20 @@ There mere presence of disagreement is enough to cast doubt on moral facts
 2. When there is widespread disagreement about a topic, it is likely that there are no [[Argument|Substantive Truths]] about the topic
 3. Therefore, there are no substantive facts about ethics, i.e moral nihilism is true
 # Counterarguments
-### Science
+### Science (Not rejecting any premise)
 Fields like science, where there are scientific facts also have disagreements.
 This does not imply that there are no scientific facts.
-### Widespread Agreements
+### Widespread Agreements (Premise 1)
 Sometimes there is just one moral factor rather than two equally powerful moral actions that pull against each other.
 There are certain moral actions that are almost unanimously believe like:
 - It is immoral to torture the innocent
 We implicitly rely on these facts everyday.
 There are moral disagreements here as well, but the moral disputes that we tend to allocate more attention to are ones that we just happen to focus on.
+### Non-Intelligible Scope (Not rejecting any premise)
+There is no scope to this point, no threshold on how many people disputing
+### Likely that there are no facts (Premise 2)
+A discussion of [[Epistimology]].
+We can not see/hear of feel the wrongness of torture, 
+Likewise, none of us can see/hear/feel the laws of mathematics.
+But, there is no widespread disagreement about mathematics.
+The reason is why we have to decide moral questions`bb
