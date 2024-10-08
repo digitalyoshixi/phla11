@@ -29,4 +29,9 @@ A discussion of [[Epistimology]].
 We can not see/hear of feel the wrongness of torture, 
 Likewise, none of us can see/hear/feel the laws of mathematics.
 But, there is no widespread disagreement about mathematics.
-The reason is why we have to decide moral questions`bb
+
+The reason is why is ethics is urgent and we have to decide the answer to these moral questions ourselves rather than math, which is not as urgent to find facts in.
+
+Likewise, there is widespread disagreement in [[Causality]]. But nobody wants to doubt causation exists.
+
+But, moral nihilism/non-cognitivism is self-refuting when it comes to these because the position depends on facts
