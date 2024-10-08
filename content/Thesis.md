@@ -6,3 +6,7 @@ tags:
 The thesis is simply the [[Argument|Conclusion]] in the [[Argument]].
 The thesis must be **strong**. It should not be obvious or ambiguous. It must support one side in full.
 - It is the most important part of the paper, everything you write will be judged based off the thesis
+# Tips
+- Don't spend too much time on the thesis, you can establish this post-haste
+- Make the thesis an answer to one of your own questions or something you found interesting
+	- Look at all conceptual parts, 
