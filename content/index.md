@@ -14,7 +14,7 @@ aliases:
 - Two research papers. One is 5pg, one is 8pg
 ### Papers
 - Require a [[Thesis]]
-- You can write in 'i'
+- You can write in 'I'
 - Can be any length
 - Define every technical piece of language like ([[Moral Skepticism]], [[Truth-Aptness]], [[Moral Disagreement]])
 - Write for the general reader
