@@ -12,6 +12,10 @@ aliases:
 	- Don't overwrite! (use > utilize)
 - Lectures on Thursdays
 - Two research papers. One is 5pg, one is 8pg
+### Papers
+- Require a thesis
+- You can write in 'i'
+- Can be any length
 # Ethics
 The fact that we argue in ethical discussions predisposes that there is a right answer and that we reach the right answer. 
 We argue that there are [[Moral Realism|Moral Truths]] and that [[Moral Relativism]] does not exist.
@@ -37,6 +41,8 @@ We argue that there are [[Moral Realism|Moral Truths]] and that [[Moral Relativi
 - [[Moral Disputes]]
 - [[Moral Argument]]
 - [[Complex Moral Sentences]]
+# Chapter 5
+- [[Moral Disagreement]]
 # Questions
 - Why does the atheist deny all facts? Do they deny facts that have nothing to do with god aswell?
 - What does a substantive moral claim even mean?
