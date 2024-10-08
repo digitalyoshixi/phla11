@@ -12,12 +12,7 @@ aliases:
 	- Don't overwrite! (use > utilize)
 - Lectures on Thursdays
 - Two research papers. One is 5pg, one is 8pg
-### Papers
-- Require a [[Thesis]]
-- You can write in 'I'
-- Can be any length
-- Define every technical piece of language like ([[Moral Skepticism]], [[Truth-Aptness]], [[Moral Disagreement]])
-- Write for the general reader
+- [[Writing Philosophy Papers]]
 # Ethics
 The fact that we argue in ethical discussions predisposes that there is a right answer and that we reach the right answer. 
 We argue that there are [[Moral Realism|Moral Truths]] and that [[Moral Relativism]] does not exist.
