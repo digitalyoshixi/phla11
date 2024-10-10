@@ -12,7 +12,7 @@ aliases:
 	- Don't overwrite! (use > utilize)
 - Lectures on Thursdays
 - Two research papers. One is 5pg, one is 8pg
-- [[Writing Philosophy Papers]]
+- [[Writing Rebuttal Papers]]
 # Ethics
 The fact that we argue in ethical discussions predisposes that there is a right answer and that we reach the right answer. 
 We argue that there are [[Moral Realism|Moral Truths]] and that [[Moral Relativism]] does not exist.

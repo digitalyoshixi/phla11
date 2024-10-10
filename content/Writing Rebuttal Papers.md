@@ -1,7 +1,10 @@
 ---
 tags:
   - philosophy
+  - arguing
 ---
+# High Level Overview
+You just need to write clearly about your own opinions and a proper argument
 # Quotas
 - Can be any length
 # Content
@@ -12,6 +15,7 @@ tags:
 - Write for the general reader
 - http://www.jimpryor.net/teaching/guidelines/writing.html
 - Address shortcomings of your own argument
+- **Just write one rebuttal**
 ### Roadmap
 - Refer to [[Cemented Points]]. You should write a preamble for what is going to be discussed
 # Type Setting
@@ -19,3 +23,13 @@ tags:
 - 12pt font
 # Tips
 - Don't bite off more than you chew. Be modest, don't aim to destroy an argument, just find small points that are rebuttles.
+# Arguments to Rebute
+### 1
+##### Sentence
+
+##### Meaning
+### 2
+##### Sentence
+##### Meaning
+How do non-cognivists make sense of moral arguments?
+##### Possible respo
