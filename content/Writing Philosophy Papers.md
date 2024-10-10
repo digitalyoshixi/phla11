@@ -16,4 +16,5 @@ tags:
 # Type Setting
 - Times new roman
 - 12pt font
-- 
+# Tips
+- Don't bite off more than you chew. Be modest, don't aim to destroy an argument, just find small points that are rebuttles.
