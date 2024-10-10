@@ -12,6 +12,13 @@ There mere presence of disagreement is enough to cast doubt on moral facts
 1. Disagreements are widespread in ethics
 2. When there is widespread disagreement about a topic, it is likely that there are no [[Argument|Substantive Truths]] about the topic
 3. Therefore, there are no substantive facts about ethics, i.e moral nihilism is true
+### Skeptics Explanation
+##### Nihilism
+No facts, but then why do we take there to be facts?
+Nihi
+##### Non-Cognitivism
+No moral claims, how did we end up with disagreement in the first place? Why do we have different attitudes?
+If all our claims are feelings, then why do we diverge in feelings?
 # Counterarguments
 ### Science (Not rejecting any premise)
 Fields like science, where there are scientific facts also have disagreements.
