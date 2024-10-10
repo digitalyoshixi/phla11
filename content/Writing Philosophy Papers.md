@@ -11,6 +11,7 @@ tags:
 - Define every technical piece of language like ([[Moral Skepticism]], [[Truth-Aptness]], [[Moral Disagreement]])
 - Write for the general reader
 - http://www.jimpryor.net/teaching/guidelines/writing.html
+- Address shortcomings of your own argument
 ### Roadmap
 - Refer to [[Cemented Points]]. You should write a preamble for what is going to be discussed
 # Type Setting
