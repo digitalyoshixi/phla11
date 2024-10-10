@@ -15,7 +15,8 @@ There mere presence of disagreement is enough to cast doubt on moral facts
 ### Skeptics Explanation
 ##### Nihilism
 No facts, but then why do we take there to be facts?
-Nihi
+Nihilism is credible only if it explains disagreement.
+Nihilism must take [[Psychology]] to explain this, but the realist can also cite [[Psychology]]. So, the nihilists explanation isn't any better than the realist.
 ##### Non-Cognitivism
 No moral claims, how did we end up with disagreement in the first place? Why do we have different attitudes?
 If all our claims are feelings, then why do we diverge in feelings?
@@ -42,3 +43,7 @@ The reason is why is ethics is urgent and we have to decide the answer to these 
 Likewise, there is widespread disagreement in [[Causality]]. But nobody wants to doubt causation exists.
 
 But, moral nihilism/non-cognitivism is self-refuting when it comes to these because the position depends on facts
+# Realist Explanation of Disagreement
+Most moral disagreements are actually about non-moral facts.
+- [[Tax the Rich]] vs [[Trickle-down Economics]]. Both want to grow the economy, they just disagree about the economy
+- 
