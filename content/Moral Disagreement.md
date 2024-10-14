@@ -30,8 +30,11 @@ Sometimes there is just one moral factor rather than two equally powerful moral 
 - It is immoral to torture the innocent
 We implicitly rely on these facts everyday.
 There are moral disagreements here as well, but the moral disputes that we tend to allocate more attention to are ones that we just happen to focus on.
-### Non-Intelligible Scope (Not rejecting any premise)
+### Non-Intelligible Scope (Premise 1)
 There is no scope to this point, no threshold on how many people disputing
+### Skeptics Inherit Belief In Facts (Premise 2)
+Widespread disbelief/belief does not constitute belief in **metaethical** facts.
+Nihilists and non-cognitivists both believe in the metaethical facts (no fact being true or no fact being truth-apt).
 ### Likely that there are no facts (Premise 2)
 A discussion of [[Epistimology]].
 We can not see/hear of feel the wrongness of torture, 
