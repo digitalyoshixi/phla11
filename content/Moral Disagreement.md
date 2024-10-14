@@ -9,7 +9,7 @@ It does not seem there is any clear answer to these disagreements.
 **The reason why there is widespread moral disagreement, is that there is no anchor to validate these moral actions**
 There mere presence of disagreement is enough to cast doubt on moral facts
 # Skeptic's Argument
-1. Disagreements are widespread in ethics
+1. Disagreements are widespread in ethics (More widespread then disagreements in science)
 2. When there is widespread disagreement about a topic, it is likely that there are no [[Argument|Substantive Truths]] about the topic
 3. Therefore, there are no substantive facts about ethics, i.e moral nihilism is true
 ### Skeptics Explanation
