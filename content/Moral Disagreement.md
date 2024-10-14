@@ -46,6 +46,9 @@ The reason is why is ethics is urgent and we have to decide the answer to these 
 Likewise, there is widespread disagreement in [[Causality]]. But nobody wants to doubt causation exists.
 
 But, moral nihilism/non-cognitivism is self-refuting when it comes to these because the position depends on facts
+### Widespread Disagreement about Widespread Disagreement (Premise 2)
+If we let the principle apply to itself, then the fact that there is widespread disagreement can be questioned aswell.
+If democratic opinion can validate a fact, then democratic rejection of democratic rejection itself can mean there is no correlation of democracy to truth aswell.
 # Realist Explanation of Disagreement
 Most moral disagreements are actually about:
 ### Non-Moral facts
