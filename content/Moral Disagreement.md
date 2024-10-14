@@ -44,6 +44,9 @@ Likewise, there is widespread disagreement in [[Causality]]. But nobody wants to
 
 But, moral nihilism/non-cognitivism is self-refuting when it comes to these because the position depends on facts
 # Realist Explanation of Disagreement
-Most moral disagreements are actually about non-moral facts.
-- [[Tax the Rich]] vs [[Trickle-down Economics]]. Both want to grow the economy, they just disagree about the economy
-- 
+Most moral disagreements are actually about:
+### Non-Moral facts
+- [[Tax the Rich]] vs [[Trickle-down Economics]]. They just disagree about the economy
+### Deep Moral Facts (Moral Facts Grounded in [[Bias]])
+- Motivated beliefs like [[Vegetarianism]], [[Equality]] come from personal biases
+- You have motivation to believe in a fact, because it will benefit you. You are biased to certain sides
