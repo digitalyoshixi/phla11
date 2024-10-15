@@ -16,14 +16,14 @@ There mere presence of disagreement is enough to cast doubt on moral facts
 ##### Nihilism
 1. We believe there are moral facts
 2. We end up disagreeing because there are no moral facts
-##### Realist & Nihilist Rebuttles
+##### Realist & Nihilist Rebuttals
 The realist first asks:
 - Why do we assume there are moral facts?
 - What leads us to differing moral beliefs?
 The nihilist replies with [[Psychology|Psychological]] reasons.
 The realist can also cite [[Psychology]]. So, the nihilists explanation isn't any better than the realist.
 ##### Non-Cognitivism
-#####
+##### Realist & Non-cognitivist Rebuttals
 No moral claims, how did we end up with disagreement in the first place? Why do we have different attitudes?
 If all our claims are feelings, then why do we diverge in feelings?
 # Counterarguments
