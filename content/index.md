@@ -45,3 +45,4 @@ We argue that there are [[Moral Realism|Moral Truths]] and that [[Moral Relativi
 - What does a substantive moral claim even mean?
 - What does a positive first order moral fact mean?
 - Pg 119, why does both the realist and skeptic accepting psychological reasons allow their theories to be compatible? dont they fundamentally disagree about the truth value of moral facts?
+- 5.4, what is the difference between the [[Moral Disagreement Skeptic's Explanation]] and [[Non-convergence]]?
