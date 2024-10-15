@@ -10,12 +10,14 @@ You just need to write clearly about your own opinions and a proper argument
 # Content
 - Require a [[Thesis]]
 	- You can be very explicit in the paper ("This paper's thesis is \_\_")
-- You can write in 'I', 'let us'
+- You should write in 'I', 'let us'
 - Define every technical piece of language like ([[Moral Skepticism]], [[Truth-Aptness]], [[Moral Disagreement]])
 - Write for the general reader
 - http://www.jimpryor.net/teaching/guidelines/writing.html
 - Address shortcomings of your own argument
 - **Just write one rebuttal**
+- Have a concrete stance, don't stand in the middle
+- Use [[Signposting]]
 ### Roadmap
 - Refer to [[Cemented Points]]. You should write a preamble for what is going to be discussed
 # Type Setting
