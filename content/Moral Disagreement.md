@@ -30,7 +30,9 @@ The realist asks:
 - Why does much of our english sound like we are making discrete claims?
 The non-cognitivist replies that surface grammar is misleading.
 The realist asks:
-- 
+- Why have we adopted such a misleading linguistical form that some sentences seem like statements
+- If there is no [[Moral Motivation]] by facts then why do our opinions diverge? 
+The non-cognitivist replies: 
 No moral claims, how did we end up with disagreement in the first place? Why do we have different attitudes?
 If all our claims are feelings, then why do we diverge in feelings?
 # Counterarguments
