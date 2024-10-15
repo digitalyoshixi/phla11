@@ -23,8 +23,14 @@ The realist first asks:
 The nihilist replies with [[Psychology|Psychological]] reasons.
 The realist can also cite [[Psychology]]. So, the nihilists explanation isn't any better than the realist.
 ##### Non-Cognitivism
-1. Moral disagreements are not theoretical at all
+1. Moral disagreements are not theoretical at all. We only express attitudes
+2. When we disagree, we are endorsing or condemning the behaviors discussed
 ##### Realist & Non-cognitivist Rebuttals
+The realist asks:
+- Why does much of our english sound like we are making discrete claims?
+The non-cognitivist replies that surface grammar is misleading.
+The realist asks:
+- 
 No moral claims, how did we end up with disagreement in the first place? Why do we have different attitudes?
 If all our claims are feelings, then why do we diverge in feelings?
 # Counterarguments
