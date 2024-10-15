@@ -28,8 +28,14 @@ You just need to write clearly about your own opinions and a proper argument
 # Arguments to Rebute
 ### 1
 ##### Sentence
-
+Thus, the noncognitivist needs some alternative way to pick out what it is that
+distinguishes moral approval and disapproval from other forms of approval and
+disapproval, a way that doesn’t covertly smuggle in an appeal to genuine moral
+assertions. The noncognitivist needs a way to characterize moral attitudes without
+presupposing the truth of cognitivism! And while there are various proposals that
+might be made, it is far from clear which, if any, are satisfactory. (p.97)
 ##### Meaning
+Noncognitivists don't have a way to distinguish between moral approval/disapproval and non-moral approval/disapproval without contradicting themselves.
 ### 2
 ##### Sentence
 ##### Meaning
