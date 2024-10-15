@@ -8,7 +8,10 @@ We will never agree on [[Truth]].
 # Ideal State For Convergence
 1. All beings are perfectly rational
 2. All individuals are given full knowledge
-3. All individuals can recognize bias
+3. All individuals can recognize bias and correct it
+4. Given unlimited time to think
+5. All arguments equally weighted
+6. 
 # Argument
 1. Domains that allow for discovering facts but not the convergence of those facts implies there there are no facts about that domain
 2. In the domain of ethics, we can never reach convergence
