@@ -15,7 +15,8 @@ tags:
 The realist first asks:
 - Why do we assume there are moral facts?
 - What leads us to differing moral beliefs?
-The nihilist replies with [[Psychology|Psychological]] reasons.
+The nihilist says [[Psychology]] is the reason why we assume there to be moral facts.
+The nihilist cites [[Psychology|Psychological]] reasons as to explain why our beliefs diverge. If there are moral facts, then our beliefs would not diverge.
 The realist can also cite [[Psychology]]. So, the nihilists explanation isn't any better than the realist.
 ### Non-Cognitivism
 1. Moral disagreements are not theoretical at all. We only express attitudes
