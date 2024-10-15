@@ -44,3 +44,4 @@ We argue that there are [[Moral Realism|Moral Truths]] and that [[Moral Relativi
 - Why does the atheist deny all facts? Do they deny facts that have nothing to do with god aswell?
 - What does a substantive moral claim even mean?
 - What does a positive first order moral fact mean?
+- Pg 119, why does both the realist and skeptic accepting psychological reasons allow their theories to be compatible? dont they fundamentally disagree about the truth value of moral facts?
