@@ -27,4 +27,4 @@ Example:
 - [[Relativism Criterias]]
 # Arguments Against
 ### Universality Noncompatibility
-
+Moral laws appear to be universal, but are implicity relativised
