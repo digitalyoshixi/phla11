@@ -8,6 +8,7 @@ aliases:
   - Moral Non-variability
 ---
 The idea that a certain action and behavior is ok for certain groups, but not ok for other groups.
+There is no single universally valid moral code.
 # Sides
 ### Absolutists
 Moral truths apply for everyone across societies, cultures and time
@@ -20,4 +21,3 @@ Example:
 - Derivative moral facts: In promises. We are not obliged to see our professor's daughter's baseball game because we did not make a promise. The fundamental moral principle is "keep your promises".
 # Subdomains
 - [[Cultural Relativism]]
-
