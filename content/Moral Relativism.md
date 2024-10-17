@@ -25,6 +25,8 @@ Example:
 # Subdomains
 - [[Cultural Relativism]]
 - [[Relativism Criterias]]
-# Arguments Against
-### Universality Noncompatibility
-Moral laws appear to be universal, but are implicity relativised
+# Implicit Relativization
+Moral laws appear to be universal, but are implicity relativised.
+For example: "The podium is to the right". But my left is not your right.
+### Problem of No Meaning
+This means that
