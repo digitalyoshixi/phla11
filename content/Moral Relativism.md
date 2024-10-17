@@ -29,4 +29,7 @@ Example:
 Moral laws appear to be universal, but are implicity relativised.
 For example: "The podium is to the right". But my left is not your right.
 ### Problem of No Meaning
-This means that
+If implicit relativization is true, then this imples that moral disagreement actually talks past eachother. Moral progress then seems impossible.
+Then moral progress is only either:
+- Rhetoric
+- Deceptive
