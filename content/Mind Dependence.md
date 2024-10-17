@@ -3,6 +3,9 @@ tags:
   - epistemology
   - philosophy
   - ethics
+aliases:
+  - Mind Dependent
+  - Mind Independent
 ---
 [[Moral facts]] are grounded in the reactions or attitudes of the moral action (See [[Action Contents]]). They are mind-dependent.
 [[Fundamental Moral Principles]] therefore, must be mind independent, and have nothing to do with what the mind thinks or believes. They must be like the laws of physics which have nothing essential to do with what we like or dislike.

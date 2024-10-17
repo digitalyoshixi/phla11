@@ -9,7 +9,8 @@ aliases:
 ---
 The idea that a certain action and behavior is ok for certain groups, but not ok for other groups.
 There is no single universally valid moral code.
-The relativist is a [[Moral Realism|Realist]], they just allow a mass variation of truth,
+The relativist is a [[Moral Realism|Realist]], they just allow a mass variation of truth.
+Moral relativism is incompatible with [[Objective Morality]] - More specifically [[Metaphysical Necessity]].
 # Sides
 ### Absolutists
 Moral truths apply for everyone across societies, cultures and time
@@ -23,3 +24,4 @@ Example:
 - Fashion
 # Subdomains
 - [[Cultural Relativism]]
+- [[Relativism Criterias]]
