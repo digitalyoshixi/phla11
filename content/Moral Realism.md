@@ -4,6 +4,7 @@ tags:
 aliases:
   - Second Order Morality
   - Moral Truth
+  - Realist
 ---
 A [[Meta-Ethics|Meta-Ethical]] disagreement about whether [[Moral Facts]] exist.
 It assumes [[Truth-Aptness]].

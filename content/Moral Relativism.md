@@ -9,6 +9,7 @@ aliases:
 ---
 The idea that a certain action and behavior is ok for certain groups, but not ok for other groups.
 There is no single universally valid moral code.
+The relativist is a [[Moral Realism|Realist]], they just allow a mass variation of truth,
 # Sides
 ### Absolutists
 Moral truths apply for everyone across societies, cultures and time
@@ -19,5 +20,6 @@ The rules of etiquette; derivatives of [[Fundamental Moral Principles]]
 Example:
 - [[Etiquette]]: Slavery was socially accepted, but we say it is morally unacceptable
 - Derivative moral facts: In promises. We are not obliged to see our professor's daughter's baseball game because we did not make a promise. The fundamental moral principle is "keep your promises".
+- Fashion
 # Subdomains
 - [[Cultural Relativism]]
