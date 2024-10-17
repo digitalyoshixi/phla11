@@ -25,3 +25,6 @@ Example:
 # Subdomains
 - [[Cultural Relativism]]
 - [[Relativism Criterias]]
+# Arguments Against
+### Universality Noncompatibility
+
