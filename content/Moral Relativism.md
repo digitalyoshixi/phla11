@@ -25,8 +25,8 @@ Example:
 # Subdomains
 - [[Cultural Relativism]]
 - [[Relativism Criterias]]
-# Implicit Relativization
-Moral laws appear to be universal, but are implicity relativised.
+# Hidden Relativization
+Moral laws appear to be universal, but are implicity relativized.
 For example: "The podium is to the right". But my left is not your right.
 ### Problem of No Meaning
 If implicit relativization is true, then this imples that moral disagreement actually talks past eachother. Moral progress then seems impossible.
