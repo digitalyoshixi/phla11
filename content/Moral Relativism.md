@@ -25,6 +25,7 @@ Example:
 # Subdomains
 - [[Cultural Relativism]]
 - [[Relativism Criterias]]
+- [[Non-cognitivist Relativism]]
 # Issues With Relativism
 ### No Absolute Truths
 Bad implication that there are absolutely no truths.
@@ -42,3 +43,7 @@ Then moral progress is only either:
 Moral beliefs in a culture could be based off what is best for the culture based off empirical data.
 For example, capital punishment being ethical in one culture to deter crime vs it being unethical in another because it doesn't deter crime.
 This could simply be an argument about the non-moral principle it was based on.
+
+### All Relativists Must Accept The Absolute Truth to Follow Their Societies Commands
+For relativism to be true, then no person should be able to not follow the truths of the society.
+Each relativist must accept this one absolute truth.
