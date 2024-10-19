@@ -38,7 +38,7 @@ If implicit relativization is true, then this imples that moral disagreement act
 Then moral progress is only either:
 - Rhetoric
 - Deceptive
-### Can Be Mistaken for [[Fundamental Moral Principles]] Dertivative Arguments
+### Can Be Mistaken for [[Fundamental Moral Principles]] Derivative Arguments
 Moral beliefs in a culture could be based off what is best for the culture based off empirical data.
 For example, capital punishment being ethical in one culture to deter crime vs it being unethical in another because it doesn't deter crime.
-This could simply be an argument about the 
+This could simply be an argument about the non-moral principle it was based on.
