@@ -38,7 +38,7 @@ The constructivist doesn't have to say that the facts in the [[Moral Code]] are 
 ##### Incompatible with [[Moral Motivation|Motive Internalism]]
 [[Moral Code]] needs to motivate you to act in alignment of it.
 - If you are motivated by it, you need not accept the [[Moral Code]]
-- You might not have that motivation that you recognise
+- You might not have that motivation that you recognise at this moment. You might develop those motivations in the future. So the current [[Moral Code]] does not fit you
 ### Descriptive View
 Different societies accept different [[Moral Code|Moral codes]]
 ##### Compatibility With [[Non-Cognitivism]]
