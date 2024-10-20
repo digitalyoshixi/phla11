@@ -68,3 +68,6 @@ This could simply be an argument about the non-moral principle it was based on.
 ### All Relativists Must Accept The Absolute Truth to Follow Their Societies Commands
 For relativism to be true, then no person should be able to not follow the truths of the society.
 Each relativist must accept this one absolute truth.
+### Likely to Have Same Fundamental Moral Codes
+Facts about the human condition seems to be the same in most societies so it appears that most societies may be that the same fundamental moral code is shared between all societies.
+Then, if all societies have the same moral code, there is no relativism.
