@@ -25,6 +25,7 @@ Example:
 - Fashion
 # Views
 ### Normative View
+The individual ought to conform to the moral code of their society
 ### Descriptive View
 Different societies accept different [[Moral Code|Moral codes]]
 ##### Compatibility With [[Non-Cognitivism]]
