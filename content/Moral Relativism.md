@@ -7,10 +7,11 @@ aliases:
   - Moral Variability
   - Moral Non-variability
 ---
-The idea that a certain action and behavior is ok for certain groups, but not ok for other groups.
+The idea that [[Fundamental Moral Principles]] vary in certain groups and certain periods.
 There is no single universally valid moral code.
 The relativist is a [[Moral Realism|Realist]], they just allow a mass variation of truth.
-Moral relativism is incompatible with [[Objective Morality]] - More specifically [[Metaphysical Necessity]].
+# Optional Incompatibilities
+Moral relativism may be incompatible with [[Objective Morality]] - More specifically [[Metaphysical Necessity]] and [[Moral Relativism|Moral Universality]] depending on your [[Morality Job Description]].
 # Sides
 ### Absolutists
 Moral truths apply for everyone across societies, cultures and time
