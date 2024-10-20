@@ -35,6 +35,10 @@ The constructivist doesn't have to say that the facts in the [[Moral Code]] are 
 - It could actually be that the valid moral code is made by [[God's Will]]
 - The valid moral code could be made by [[Mind Dependence|Mind Dependent]] facts created by an entirely different society, to impose on the current society
 - It could be a valid moral code made by the same members of the society in [[Ideal State|Ideal Circumstances]], but that code does not necessarily align with what the society sees as acceptible now
+##### Incompatible with [[Moral Motivation|Motive Internalism]]
+[[Moral Code]] needs to motivate you to act in alignment of it.
+- If you are motivated by it, you need not accept the [[Moral Code]]
+- You might not have that motivation that you recognise
 ### Descriptive View
 Different societies accept different [[Moral Code|Moral codes]]
 ##### Compatibility With [[Non-Cognitivism]]
