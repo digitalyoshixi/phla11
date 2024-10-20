@@ -10,7 +10,7 @@ Moral laws apply and should be followed universally
 # Features
 1. [[Moral Relativism|Moral Universality]]
 2. [[Metaphysical Necessity]]
-3. [[Mind Dependence|Mind Independance]]
+3. [[Mind Dependence|Mind Independance]]. (As facts about fashion cannot be objective)
 # Key Questions
 - What does it mean for morality to be objective?
 - What features must morality have to be considered objective?
