@@ -28,15 +28,11 @@ Example:
 - [[Relativism Criterias]]
 - [[Non-cognitivist Relativism]]
 # Issues With Relativism
-### No Absolute Truths
-Bad implication that there are absolutely no truths.
-It means that it can not be 100% true that killing people is wrong.
-Now, no culture can ever be mistaken about morality
 ### Hidden Relativization
 Moral laws appear to be universal, but are implicity relativized.
 For example: "The podium is to the right". But my left is not your right.
 ##### Problem of No Meaning
-If implicit relativization is true, then this imples that moral disagreement actually talks past eachother. Moral progress then seems impossible.
+If implicit relativization is true, then this imples that no society can ever be mistaken about the moral code. This means that moral disagreement actually talks past eachother. Moral progress then seems impossible.
 Then moral progress is only either:
 - Rhetoric
 - Deceptive
