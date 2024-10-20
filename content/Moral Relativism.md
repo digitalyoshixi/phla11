@@ -50,13 +50,13 @@ We cannot prove that different groups believe in different [[Fundamental Moral P
 - [[Cultural Relativism]]
 - [[Relativism Criterias]]
 - [[Moral Code]]
-- [[Non-cognitivist Relativism]]
+- [[Differences Because of Relativism]]
 # Issues With Relativism
 ### Hidden Relativization
 Moral laws appear to be universal, but are implicity relativized.
 For example: "The podium is to the right". But my left is not your right.
 ##### Problem of No Meaning
-If implicit relativization is true, then this imples that no society can ever be mistaken about the moral code. This means that moral disagreement actually talks past eachother. Moral progress then seems impossible.
+If implicit relativization is true, then this imples that no society can ever be mistaken about the moral code. This is very similar to the command-issuing in [[Non-Cognitivism]]. This means that moral disagreement actually talks past eachother. Moral progress then seems impossible.
 Then moral progress is only either:
 - Rhetoric
 - Deceptive
