@@ -23,6 +23,15 @@ Example:
 - [[Etiquette]]: Slavery was socially accepted, but we say it is morally unacceptable
 - Derivative moral facts: In promises. We are not obliged to see our professor's daughter's baseball game because we did not make a promise. The fundamental moral principle is "keep your promises".
 - Fashion
+# Views
+### Normative View
+### Descriptive View
+Different societies accept different [[Moral Code|Moral codes]]
+##### Compatibility With [[Non-Cognitivism]]
+If we see moral claims as imperatives, then the society's moral code will apply to us as commands. They will address us directly.
+There is no way a command is absolute. Hence, it is compatible with relativism
+##### Incompatibility With Realism
+We cannot prove that different groups believe in different [[Fundamental Moral Principles]].
 # Subdomains
 - [[Cultural Relativism]]
 - [[Relativism Criterias]]
