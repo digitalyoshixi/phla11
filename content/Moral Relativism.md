@@ -28,7 +28,11 @@ Example:
 The individual ought to conform to the moral code of their society
 ##### Incompatibility With [[Non-Cognitivism]]
 There must be first an imperative 'follow your societies moral codes even if that code is really bad' issued to every rational being first.
-It does not seem like any tolerance-loving person would issue this command - because they would know it may lead to unethic
+It does not seem like any tolerance-loving person would issue this command - because they would know it may lead to unintended consequences.
+Thus it seems unreasonable
+##### Incompatibility with [[Constructivism]]
+Society accepts which code is acceptable.
+- They dont accept which code is valid. The code to follow
 ### Descriptive View
 Different societies accept different [[Moral Code|Moral codes]]
 ##### Compatibility With [[Non-Cognitivism]]
