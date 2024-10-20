@@ -26,6 +26,7 @@ Example:
 # Subdomains
 - [[Cultural Relativism]]
 - [[Relativism Criterias]]
+- [[Moral Code]]
 - [[Non-cognitivist Relativism]]
 # Issues With Relativism
 ### Hidden Relativization
