@@ -7,7 +7,7 @@ aliases:
   - Moral Variability
   - Moral Non-variability
 ---
-The idea that [[Fundamental Moral Principles]] vary in certain groups and certain periods.
+%%  %%The idea that [[Fundamental Moral Principles]] vary in certain groups and certain periods.
 There is no single universally valid moral code.
 The relativist is a [[Moral Realism|Realist]], they just allow a mass variation of truth.
 # Optional Incompatibilities
