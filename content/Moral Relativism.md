@@ -51,6 +51,11 @@ We cannot prove that different groups believe in different [[Fundamental Moral P
 - [[Relativism Criterias]]
 - [[Moral Code]]
 - [[Differences Because of Relativism]]
+### Foundationalist Theories
+- [[Contractarianism]]
+- [[Rule Consequentialist]]
+- [[Ideal Observer]]
+- [[Universability]]
 # Issues With Relativism
 ### Hidden Relativization
 Moral laws appear to be universal, but are implicity relativized.
