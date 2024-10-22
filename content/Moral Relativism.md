@@ -51,7 +51,7 @@ We cannot prove that different groups believe in different [[Fundamental Moral P
 - [[Relativism Criterias]]
 - [[Moral Code]]
 - [[Differences Because of Relativism]]
-### Foundationalist Theories
+### [[Foundationalism|Foundationalist]] Theories
 - [[Contractarianism]]
 - [[Rule Consequentialist]]
 - [[Ideal Observer]]
