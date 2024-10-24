@@ -26,4 +26,5 @@ Other areas of our life, like [[Mathematics]] and [[Metaphysics]] also have the 
 Intuitions guide our beliefs that certain axioms are the correct choice.
 ##### Counterarguments
 You can see the fruits of mathematics by affirmings its truth by making rockets and guns and all those feats of engineering only possible through mathematics.
-### Moral Tr
+### Moral Truth Dependent of Intuition
+Moral truth will come from our [[John Rawls|Rawls]] intuition, they will be [[Mind Dependence|Mind Dependent]] from a blank-slate
