@@ -16,4 +16,10 @@ Some people discern colors better than others.
 People can disagree about empirical observations.
 Not everybody has the same intuitions.
 ##### Counter Arguments
-Our moral judgeme
+Our moral judgements also concern our own wellbeing, so we are bound to disagree.
+There are downstream consequences to various moral policies.
+We intrinsically have motivation to certain moral beliefs.
+This differs from disagreement in [[Mathematics]].
+# How intuitions track the truth
+Other areas of our life, like [[Mathematics]] and [[Metaphysics]] also have the same concerns.
+Intuitions guide our beliefs that certain axioms are the correct choice.
