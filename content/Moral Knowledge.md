@@ -24,6 +24,8 @@ The system of moral rules will all be built off a foundation. This foundation co
 ### 6th Sense
 Similar to how one can understand language and not know the deeper structure and rules of language, ethics can also be inately understood without prior understanding of its rules.
 Ethics is like a 6th sense
+### [[Sense Modality]] & [[Empi]
+Our knowledge of what is right or wrong is based off [[Intuition]]. It yields the appearance of rightness/wrongness
 ### General Principles
 All we know are general principles, and all our moral decisions build off these general principles.
 These principles can include:
