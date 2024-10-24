@@ -42,6 +42,9 @@ We argue that there are [[Moral Realism|Moral Truths]] and that [[Moral Relativi
 - [[Moral Disagreement]]
 # Chapter 6
 - [[Moral Relativism]]
+# Chapter 7
+- [[Knowledge]]
+- 
 # Questions
 - Why does the atheist deny all facts? Do they deny facts that have nothing to do with god aswell?
 - What does a substantive moral claim even mean?

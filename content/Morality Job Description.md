@@ -12,7 +12,7 @@ The skeptical arguments
 - [[Action-Guiding]]
 - [[Action Contents]]
 - [[Moral Facts]]
-- [[Moral Fact Knowledge]]
+- [[Moral Knowledge]]
 - [[Moral Relativism]]
 - [[World Applicability|Necessary Truth]]
 - [[Grounds]]

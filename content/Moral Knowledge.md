@@ -2,6 +2,8 @@
 tags:
   - ethics
   - philosophy
+aliases:
+  - Moral Fact Knowledge
 ---
 Do [[Moral Facts]] require knowledge inaccessible to us?
 Furthermore, does a lack of knowledge of these [[Moral Facts]] result in immorality?

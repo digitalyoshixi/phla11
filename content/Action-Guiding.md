@@ -4,7 +4,7 @@ tags:
   - philosophy
 ---
 Moral truths help us decide what to do and how to act. It is intrinsically action guiding.
-For morality to be action-guiding, it requires that [[Moral Fact Knowledge|Moral facts are known]] beforehand.
+For morality to be action-guiding, it requires that [[Moral Knowledge|Moral facts are known]] beforehand.
 # Action Guiding Traits
 ### Whitelist Blacklist of Moral Actions
 There exists a list of actions that are good and bad, that we must follow dogmatically
