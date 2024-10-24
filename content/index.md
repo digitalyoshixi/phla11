@@ -44,6 +44,7 @@ We argue that there are [[Moral Realism|Moral Truths]] and that [[Moral Relativi
 - [[Moral Relativism]]
 # Chapter 7
 - [[Knowledge]]
+- [[Moral Theory]]
 - 
 # Questions
 - Why does the atheist deny all facts? Do they deny facts that have nothing to do with god aswell?
