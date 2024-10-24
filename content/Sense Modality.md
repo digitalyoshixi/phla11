@@ -21,5 +21,9 @@ There are downstream consequences to various moral policies.
 We intrinsically have motivation to certain moral beliefs.
 This differs from disagreement in [[Mathematics]].
 # How intuitions track the truth
+### Contrast With Other Sciences
 Other areas of our life, like [[Mathematics]] and [[Metaphysics]] also have the same concerns.
 Intuitions guide our beliefs that certain axioms are the correct choice.
+##### Counterarguments
+You can see the fruits of mathematics by affirmings its truth by making rockets and guns and all those feats of engineering only possible through mathematics.
+### Moral Tr
