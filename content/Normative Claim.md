@@ -2,6 +2,9 @@
 tags:
   - ethics
   - philosophy
+aliases:
+  - Standard
+  - Standards
 ---
 A claim in relation to a norm or standard.
 # [[Descriptive Claim]] $\not\Rightarrow$ Normative Claim

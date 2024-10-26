@@ -7,7 +7,7 @@ aliases:
 ---
 A system of moral values that answers normative questions like:
 - "What ought I do"
-# Formal Distinction
-The [[Normative Claim|Standards]] of what is good/bad
+# Formal Distinction with [[Morality]]
+The [[Normative Claim|Standards]] of what is good/bad imposed by some outside group or society
 # Books
 - [[Answering Moral Skepticism]]
