@@ -4,6 +4,7 @@ tags:
   - philosophy
 aliases:
   - Truth Apt
+  - Positive Statement
 ---
 [[Statements]] are capable of being true or false.
 There cannot be [[Morally Gray]] claims. 
