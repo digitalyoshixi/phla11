@@ -21,5 +21,12 @@ It is the case that some evolutionary evolution will select for the truth.
 If the argument works against moral beliefs, it might also challenge empirical beliefs.
 There is often an inherent link between truth and evolutionary advantage for empirical beliefs.
 
-True vis
-Evolution selects vision as a true moral reason
+# Third Argument
+Unlike empirical beliefs, true moral beliefs don't inherently offer evolutionary advantages.
+True empirical beliefs are advantageous to society.
+But some true moral beliefs are not advantageous to our society.
+### Example
+You are the only person in your battalion that jump on the grenade. You die but you save 100 lives.
+Moral truth: Better to kill yourself
+Self-Advantage: Don't jump.
+Advantage does not track the moral truth in this case.
