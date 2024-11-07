@@ -30,3 +30,11 @@ You are the only person in your battalion that jump on the grenade. You die but 
 Moral truth: Better to kill yourself
 Self-Advantage: Don't jump.
 Advantage does not track the moral truth in this case.
+### Responses
+##### Common Ground Response
+There could be underlying facts that link truth and advantage in both empirical and moral domains
+##### Constructivist Response
+Moral truth depends in our mental lives.
+What it is to be a moral law is to be the kind of law to govern society if we were in an ideal state.
+Then the moral rules we choose 
+So, we have a renewed connection between
