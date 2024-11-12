@@ -32,9 +32,14 @@ Self-Advantage: Don't jump.
 Advantage does not track the moral truth in this case.
 ### Responses
 ##### Common Ground Response
-There could be underlying facts that link truth and advantage in both empirical and moral domains
+There could be underlying facts that link truth and advantage in both empirical and moral domains.
+Example:
+- Evolutionary advantage: Move hand from burning flame to keep hand
+- Normative Fact: It hurts to have hand above flame
 ##### Constructivist Response
 Moral truth depends in our mental lives.
 What it is to be a moral law is to be the kind of law to govern society if we were in an ideal state.
 Then the moral rules we choose 
-So, we have a renewed connection between
+So, we have a renewed connection between truth and evolutionary advantage.
+Truth comes from evolutionary advantage which is these facts about our minds.
+It makes moral truth a truth like being popular.
