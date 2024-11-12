@@ -8,3 +8,5 @@ A kind of [[Reductionism]] that allows for [[Mind Dependence]].
 These mind-dependent facts can also be further reduced to [[Naturalist|Natural Facts]] or [[Non-Naturalist|Non-Natural Facts]]. 
 # Examples
 - [[God's Will|Divine Command Theory]]
+# Concepts
+- [[Foundationalism]]
