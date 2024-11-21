@@ -4,6 +4,7 @@ tags:
   - philosophy
 ---
 # Positive Thesis
+
 The non-cognitivist requires the positive thesis because they owe us [[Moral Language]]
 Moral sentences express attitudes or commands
 When you assert a moral statement, what you imply is a expression of [[Reaction]] or expression of a [[Commands]].

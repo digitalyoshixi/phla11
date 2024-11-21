@@ -1,7 +1,9 @@
 ---
 tags:
   - philosophy
+  - ethics
 ---
-# Desire -> Actions
-Actions require desire.
-Everytime you act, you act because of your desires.
+# Ideas
+- [[Actions and Desires]]
+# Non-Cognitivism
+- [[Hume Non-Cognitivism]]
