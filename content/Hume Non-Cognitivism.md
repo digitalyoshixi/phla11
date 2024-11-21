@@ -19,4 +19,9 @@ So, similar to morality, you can say things are 'wrong', but not follow that sta
 ##### Defense of Premise 1 - Conceptual Incompetence
 The amorality lacks some moral senses.
 They are similar to [[Colorblind]] people who lack the inhibitors to have a full comprehension of color.
-The amoralist is then missing a key inhibitor of 
+The amoralist is then missing a key inhibitor of morality.
+##### Defense of Premise 1 - Skepticism of Amoralism
+Kagan does not believe that anybody can really be amoral.
+He thinks it is not possible for a rational being to be amoral and have no motivation at all to follow morality.
+### Reject Premise 2 - Rejecting Motivational Psychology
+Beliefs motivate beliefs without desires, why can' they mt
