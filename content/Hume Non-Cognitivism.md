@@ -27,9 +27,4 @@ He thinks it is not possible for a rational being to be amoral and have no motiv
 Beliefs motivate beliefs without desires, why can' they motivate action?
 Beliefs alone will psychologically change us.
 ##### Defense of Premise 2 - Besire
-Desire: world to mind
-
-
-When you realize that you have a desire, and there is a mismatch between your desire and the world, then you try to change the world. You don't change the desire.
-
-If there is a state of mind that is both a belief and desire, in other words, believing in a desire, 
+If there is a state of mind that is both a belief and desire, in other words, believing in a desire, this seems quite impossible.
