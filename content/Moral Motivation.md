@@ -28,3 +28,5 @@ There needs to be *some* motivational force to allow for action
 ### No Correlation
 - Motivation could exist without obligation existing
 - Obligation could exist without motivation existing
+# Motivation Conditions
+1. If you think it is right, you do it
