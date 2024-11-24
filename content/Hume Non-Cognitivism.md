@@ -23,8 +23,13 @@ The amoralist is then missing a key inhibitor of morality.
 ##### Defense of Premise 1 - Skepticism of Amoralism
 Kagan does not believe that anybody can really be amoral.
 He thinks it is not possible for a rational being to be amoral and have no motivation at all to follow morality.
-### Reject Premise 2 - Rejecting Motivational Psychology
-Beliefs motivate beliefs without desires, why can' they motivate action?
-Beliefs alone will psychologically change us.
+### Reject Premise 2 - Pluralist view
+Beliefs motivate beliefs without desires, why can't they motivate action?
+[[Normative Claim]]s are truths about what we should do. If we believe in those then we should believe in what it tell us.
+[[Moral Facts]] are a subset of normative facts. So, moral beliefs should be able to motivate us directly without need for desire.
+### Reject Premise 2 - Radical view
+It is only having a desire and having a belief to act on that desire that gets you motivation.
+Normative beliefs have this property
+
 ##### Defense of Premise 2 - Besire
 If there is a state of mind that is both a belief and desire, in other words, believing in a desire, this seems quite impossible.
