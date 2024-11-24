@@ -9,6 +9,7 @@ aliases:
 A [[Meta-Ethics|Meta-Ethical]] disagreement about whether [[Moral Facts]] exist.
 It assumes [[Truth-Aptness]].
 [[Moral Nihilism]] is opposed to moral realism.
+Moral beliefs are [[Normative Claim]] about what you should do.
 # Subdomains
 There is debate between the moral realists as to Owhat constitutes a moral fact.
 ![[Moral Realism-20240912220258183.webp]]
