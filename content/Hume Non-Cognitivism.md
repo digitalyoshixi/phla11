@@ -30,6 +30,6 @@ Beliefs motivate beliefs without desires, why can't they motivate action?
 ### Reject Premise 2 - Radical view
 It is only having a desire and having a belief to act on that desire that gets you motivation.
 Normative beliefs have this property
-
-##### Defense of Premise 2 - Besire
-If there is a state of mind that is both a belief and desire, in other words, believing in a desire, this seems quite impossible.
+### Reject Premise 2 - [[Besire]]
+If there is a state of mind that is both a belief and desire, in other words, believing in a desire, then we can have moral statements that motivate intrinsically. 
+This seems quite impossible.
