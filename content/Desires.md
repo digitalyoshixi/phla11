@@ -1,6 +1,8 @@
 ---
 tags:
   - philosophy
+aliases:
+  - Desire Direction of Fit
 ---
 Desire: world to mind
 They explain how the world should be.

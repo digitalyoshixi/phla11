@@ -1,6 +1,8 @@
 ---
 tags:
   - philosophy
+aliases:
+  - Belief Direction of fit
 ---
 Beliefs: mind to world.
 They explain how the world is.
