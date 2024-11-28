@@ -45,8 +45,8 @@ You just need to write clearly about your own opinions and a proper argument
 	2. Counter examples of general claims
 	3. Explain that the principles work in other domains or do not work in an domain
 	4. Argue a premise is false
-	5. Provide support
 7. Provide Criticism of thesis and rebute it
+	1. Note that the argument is missing or fails in some cases
 # Good Sources
 - Philosophy Compass
 - Stanford Encyclopedia of Philosophy
