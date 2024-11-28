@@ -27,3 +27,15 @@ You just need to write clearly about your own opinions and a proper argument
 - Don't bite off more than you chew. Be modest, don't aim to destroy an argument, just find small points that are rebuttles.
 # Steps
 1. Choose a question you find easiest
+2. State thesis. Flatly
+3. Follow the outline of writing
+4. Define terms
+	1. Locate term
+	2. Locate passage where kagan explains term
+	3. Explain kagan citation in your own words
+	4. Provide your own example or two
+	5. Distinguish the term meaning from nearby meaning of which it is easily confused
+	6. Provide important contrasts
+
+Fluffing word-count:
+- Add more than one example
