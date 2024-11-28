@@ -36,6 +36,19 @@ You just need to write clearly about your own opinions and a proper argument
 	4. Provide your own example or two
 	5. Distinguish the term meaning from nearby meaning of which it is easily confused
 	6. Provide important contrasts
-
-Fluffing word-count:
+5. Explain the argument
+	1. Locate passage containing the argument
+	2. Cite what you need from that passage
+	3. Explain the citation in your own words
+6. Provide criticism of support for kagan's argument
+	1. Argue that an analogy kagan provides is not good
+	2. Counter examples of general claims
+	3. Explain that the principles work in other domains or do not work in an domain
+	4. Argue a premise is false
+	5. Provide support
+7. Provide Criticism of thesis and rebute it
+# Good Sources
+- Philosophy Compass
+- Stanford Encyclopedia of Philosophy
+# Fluffing word-count:
 - Add more than one example
